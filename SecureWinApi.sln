@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SecureWinApi", "SecureWinApi\SecureWinApi.vcxproj", "{D671AF0B-D944-44BC-9727-81E97E8EE92B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest", "UnitTest\UnitTest.vcxproj", "{0F2F5367-1C8C-48BB-942D-E49C17481B92}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generator", "Generator\Generator.vcxproj", "{65145883-2B29-460A-86BD-FBE1FF14CCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D671AF0B-D944-44BC-9727-81E97E8EE92B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D671AF0B-D944-44BC-9727-81E97E8EE92B}.Debug|Win32.Build.0 = Debug|Win32
+		{D671AF0B-D944-44BC-9727-81E97E8EE92B}.Release|Win32.ActiveCfg = Release|Win32
+		{D671AF0B-D944-44BC-9727-81E97E8EE92B}.Release|Win32.Build.0 = Release|Win32
+		{0F2F5367-1C8C-48BB-942D-E49C17481B92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F2F5367-1C8C-48BB-942D-E49C17481B92}.Debug|Win32.Build.0 = Debug|Win32
+		{0F2F5367-1C8C-48BB-942D-E49C17481B92}.Release|Win32.ActiveCfg = Release|Win32
+		{0F2F5367-1C8C-48BB-942D-E49C17481B92}.Release|Win32.Build.0 = Release|Win32
+		{65145883-2B29-460A-86BD-FBE1FF14CCDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65145883-2B29-460A-86BD-FBE1FF14CCDD}.Debug|Win32.Build.0 = Debug|Win32
+		{65145883-2B29-460A-86BD-FBE1FF14CCDD}.Release|Win32.ActiveCfg = Release|Win32
+		{65145883-2B29-460A-86BD-FBE1FF14CCDD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
